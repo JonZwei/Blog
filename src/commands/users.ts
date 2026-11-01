@@ -32,7 +32,7 @@ export async function handlerRegister(cmdName: string, ...args: string[]) {
     if (handlerUser) {
         throw new Error("User already exists");
     }
-    const user = await createUser(args[0]);0
+    const user = await createUser(args[0]);
     await setUser(args[0]);
     console.log("User was created", user);
 }

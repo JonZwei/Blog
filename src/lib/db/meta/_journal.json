@@ -15,6 +15,27 @@
       "when": 1782680138330,
       "tag": "0001_dashing_boomerang",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793431157799,
+      "tag": "0002_overjoyed_skaar",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1793519061347,
+      "tag": "0003_wild_betty_brant",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1793519677927,
+      "tag": "0004_daily_marvex",
+      "breakpoints": true
     }
   ]
 }

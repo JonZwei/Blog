@@ -13,7 +13,7 @@ export function readConfig(): Config {
 }    
 
 function getConfigFilePath(): string {
-    return path.join(os.homedir(), '.gatorconfig.json');
+    return path.join(os.homedir(), '/projects/boot.dev/Blog/.gatorconfig.json');
 }
 
 export function writeConfig(cfg: Config): void {
